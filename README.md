@@ -6,7 +6,8 @@ The input is a single JSON file with **1,000 users**, their orders (≈1,600) an
 
 Plain HTML, CSS and JavaScript: no framework, no build step, no chart library (charts are hand-drawn SVG).
 
-## What's in the dashboard   ## https://logicversehub.github.io/Customer-Sentiment/#reviews
+## What's in the dashboard   
+# https://logicversehub.github.io/Customer-Sentiment/#reviews
 
 - Filters for period, product, channel and city that apply to every card
 - Average rating, star distribution, and four KPIs with monthly sparklines and change vs. the prior 3 months
